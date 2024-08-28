@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f507e543-903e-4b0e-a06d-60a65b80e1de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 216,
+  "height": 216,
+  "platformSettings": {},
+  "subMetas": {
+    "爱莎公主美甲沙龙": {
+      "ver": "1.0.4",
+      "uuid": "495bc658-afc9-4478-bbc8-6394866940ea",
+      "rawTextureUuid": "f507e543-903e-4b0e-a06d-60a65b80e1de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 216,
+      "height": 216,
+      "rawWidth": 216,
+      "rawHeight": 216,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

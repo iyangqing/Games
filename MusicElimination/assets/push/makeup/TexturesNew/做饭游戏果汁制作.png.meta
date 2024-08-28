@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8a075bc1-1bff-4a72-8352-2e93dc3b5cdd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 216,
+  "height": 216,
+  "platformSettings": {},
+  "subMetas": {
+    "做饭游戏果汁制作": {
+      "ver": "1.0.4",
+      "uuid": "01dc69ab-83b3-4a51-b35e-d9ece4ff96f8",
+      "rawTextureUuid": "8a075bc1-1bff-4a72-8352-2e93dc3b5cdd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 216,
+      "height": 216,
+      "rawWidth": 216,
+      "rawHeight": 216,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

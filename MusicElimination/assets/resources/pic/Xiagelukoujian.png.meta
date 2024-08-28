@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "814b7ab0-e2b6-4b84-b459-ba39000f400c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "Xiagelukoujian": {
+      "ver": "1.0.4",
+      "uuid": "8aa5e5f6-5521-4748-a2e4-7fa5e04e6823",
+      "rawTextureUuid": "814b7ab0-e2b6-4b84-b459-ba39000f400c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

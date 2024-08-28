@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "72a93f51-2f00-4136-a41a-e8f3f9345592",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "BeethovenVirus": {
+      "ver": "1.0.4",
+      "uuid": "ccf8ec5c-c324-4560-848d-12df4e536f77",
+      "rawTextureUuid": "72a93f51-2f00-4136-a41a-e8f3f9345592",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

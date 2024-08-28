@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "737b21f8-110a-4560-922f-f462e5e3283b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 35,
+  "height": 34,
+  "platformSettings": {},
+  "subMetas": {
+    "Star white Small 2": {
+      "ver": "1.0.4",
+      "uuid": "72b149e9-dfeb-4777-ac6d-6861b8283e5b",
+      "rawTextureUuid": "737b21f8-110a-4560-922f-f462e5e3283b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 33,
+      "height": 32,
+      "rawWidth": 35,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

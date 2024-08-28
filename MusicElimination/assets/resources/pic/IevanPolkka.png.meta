@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2502d887-c318-4816-b3bd-10c296e6941d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "IevanPolkka": {
+      "ver": "1.0.4",
+      "uuid": "725a11a7-7229-4d31-bff9-827b8ed2dc44",
+      "rawTextureUuid": "2502d887-c318-4816-b3bd-10c296e6941d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

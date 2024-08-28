@@ -1,0 +1,147 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "step3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "tut Hand": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bonb": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -284.767,
+                240,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                0,
+                240,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                240,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "stopHand": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 10
+            },
+            {
+              "frame": 0.5,
+              "value": -10
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 10
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -10
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Label": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

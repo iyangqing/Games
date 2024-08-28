@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8860361d-bc69-4a1e-9665-966f811e04c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "时尚美甲沙龙": {
+      "ver": "1.0.4",
+      "uuid": "96c92b94-9594-4429-923d-68a78f438605",
+      "rawTextureUuid": "8860361d-bc69-4a1e-9665-966f811e04c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "23a0795d-b18f-4823-a929-200c4b70bb43",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "AllaTurca": {
+      "ver": "1.0.4",
+      "uuid": "247a806c-bbb0-4198-9161-7ba9ff170776",
+      "rawTextureUuid": "23a0795d-b18f-4823-a929-200c4b70bb43",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

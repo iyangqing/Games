@@ -1,0 +1,59 @@
+{
+  "group-list": [
+    "default",
+    "cutBlock"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "DragonBones",
+    "EditBox",
+    "Native Socket",
+    "PageView",
+    "PageViewIndicator",
+    "ProgressBar",
+    "RichText",
+    "ScrollBar",
+    "Spine Skeleton",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin"
+  ],
+  "last-module-event-record-time": 1632971919033,
+  "design-resolution-width": 1080,
+  "design-resolution-height": 1920,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "start-scene": "7e6669c4-5c0e-46f7-88ff-81d8bc8b5ac2",
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

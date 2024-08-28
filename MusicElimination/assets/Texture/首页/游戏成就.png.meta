@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7ff0f4a7-4eb0-4802-9664-8a07eb253f1d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 92,
+  "height": 114,
+  "platformSettings": {},
+  "subMetas": {
+    "游戏成就": {
+      "ver": "1.0.4",
+      "uuid": "5af4337d-fd8e-4867-98f1-2f80f21c1036",
+      "rawTextureUuid": "7ff0f4a7-4eb0-4802-9664-8a07eb253f1d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 114,
+      "rawWidth": 92,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

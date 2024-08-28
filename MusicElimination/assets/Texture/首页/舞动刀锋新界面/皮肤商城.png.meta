@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d45de974-86ad-48c8-ae1a-7dae1aaf43c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 353,
+  "height": 117,
+  "platformSettings": {},
+  "subMetas": {
+    "皮肤商城": {
+      "ver": "1.0.4",
+      "uuid": "e53a5d8e-fd75-443d-8a38-3a923e165480",
+      "rawTextureUuid": "d45de974-86ad-48c8-ae1a-7dae1aaf43c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 353,
+      "height": 117,
+      "rawWidth": 353,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

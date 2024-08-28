@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.Material",
+  "_name": "sprite-glow-outter",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "9ad76cec-bb92-4876-b287-b717d6a2af4b"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "glowColorSize": 0.9,
+        "glowThreshold": 1,
+        "glowColor": {
+          "__type__": "cc.Color",
+          "r": 0,
+          "g": 138,
+          "b": 255,
+          "a": 255
+        },
+        "alphaThreshold": 0
+      },
+      "defines": {
+        "USE_TEXTURE": true,
+        "SHOW_OUTTER_GLOW": true,
+        "USE_ALPHA_TEST": false
+      }
+    }
+  }
+}

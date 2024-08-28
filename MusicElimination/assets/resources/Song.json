@@ -1,0 +1,604 @@
+{
+  "Music": [
+	{
+      "name": "专业团队",
+      "urlName": "AstronomiaE",
+	  "duration":91.00,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "电子",
+      "coin":0,
+      "isNew":false
+    },
+    {
+      "name": "Stereo Madness",
+      "urlName": "StereoMadness",
+	  "duration":101.00,
+      "tMiss": 2.5, 
+      "difficulty":0,
+      "type": "电子",
+      "coin":0,
+      "isNew":false
+    },
+    {
+      "name": "桥边姑娘",
+      "urlName": "Qiaobianguniang",
+	  "duration":101,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "勾指起誓",
+      "urlName": "Gouzhiqishi",
+	  "duration":94,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "普通disco",
+      "urlName": "PutongdiscoE",
+	  "duration":140.00,
+      "tMiss": 2.5,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "广东爱情故事",
+      "urlName": "GuangdongaiqinggushiE",
+	  "duration":125,
+      "tMiss": 2.5,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "Cry no more",
+      "urlName": "CrynomoreE",
+	  "duration":140.00,
+      "tMiss": 2.5,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "Purple Passion",
+      "urlName": "PurplePassionE",
+	  "duration":85.00,
+      "tMiss": 2.3,
+      "difficulty":0,
+      "type": "古典",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "麻雀",
+      "urlName": "MaqueE",
+	  "duration":106,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "带你去旅行",
+      "urlName": "DainiqulvxingE",
+	  "duration":89.00,
+      "tMiss": 2,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "下个路口见",
+      "urlName": "XiagelukoujianE",
+	  "duration":99,
+      "tMiss": 2.5,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "少年",
+      "urlName": "ShaonianE",
+	  "duration":100,
+      "tMiss": 2.3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "King",
+      "urlName": "king",
+	  "duration":96,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":0,
+      "isNew":false
+    },
+    {
+      "name": "惊雷",
+      "urlName": "Jinglei",
+	  "duration":103.00,
+      "tMiss": 2.3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":400,
+      "isNew":false
+    },
+    {
+      "name": "Counting Stars",
+      "urlName": "CountingStars",
+	  "duration":130,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "夜空中最亮的星",
+      "urlName": "Yekongzhongzuiliangdexing",
+	  "duration":122,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "流行",
+      "coin":400,
+      "isNew":false
+    },
+    {
+      "name": "Lemon",
+      "urlName": "Lemon",
+	  "duration":182.00,
+      "tMiss": 2.5,
+      "difficulty":0,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Time Machine",
+      "urlName": "TimeMachine",
+	  "duration":157.00,
+      "tMiss": 2,
+      "difficulty":0,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Carmen",
+      "urlName": "Carmen",
+	  "duration":130.00,
+      "tMiss": 2.8,
+      "difficulty":0,
+      "type": "古典",
+      "coin":600,
+      "isNew":false
+    },
+    {
+      "name": "Spear of Justice",
+      "urlName": "SpearOfJustice",
+	  "duration":132.00,
+      "tMiss": 2.4,
+      "difficulty":0,
+      "type": "摇滚",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Cry no more",
+      "urlName": "Crynomore",
+	  "duration":140.00,
+      "tMiss": 2.5,
+      "difficulty":0,
+      "type": "流行",
+      "coin":600,
+      "isNew":false
+    },
+    {
+      "name": "波莱罗舞曲",
+      "urlName": "Bolero",
+	  "duration":165.00,
+      "tMiss": 2.8,
+      "difficulty":0,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "自新大陆",
+      "urlName": "FromTheNewWorld",
+	  "duration":111.00,
+      "tMiss": 2.3,
+      "difficulty":0,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "小步舞曲",
+      "urlName": "Minuet",
+	  "duration":85.00,
+      "tMiss": 3,
+      "difficulty":0,
+      "type": "古典",
+      "coin":800,
+      "isNew":false
+    },
+    {
+      "name": "River Flows in You",
+      "urlName": "RiverFlowsinYou",
+	  "duration":110.00,
+      "tMiss": 2.5,
+      "difficulty":0,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "芒种",
+      "urlName": "Mangzhong",
+	  "duration":105,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "红昭愿",
+      "urlName": "Hongzhaoyuan",
+	  "duration":90,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "你若三冬",
+      "urlName": "NiruosandongE",
+	  "duration":115,
+      "tMiss": 2.2,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":true
+    },
+	{
+      "name": "专业团队",
+      "urlName": "Astronomia",
+	  "duration":91.00,
+      "tMiss": 3,
+      "difficulty":1,
+      "type": "电子",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "下个路口见",
+      "urlName": "Xiagelukoujian",
+	  "duration":99,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "普通Disco",
+      "urlName": "PuTongDisco",
+	  "duration":140.00,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Purple Passion",
+      "urlName": "PurplePassion",
+	  "duration":85.00,
+      "tMiss": 2.3,
+      "difficulty":1,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "夏天的风",
+      "urlName": "Xiatiandefeng",
+	  "duration":128,
+      "tMiss": 2.3,
+      "difficulty":1,
+      "type": "流行",
+      "coin":800,
+      "isNew":false
+    },
+    {
+      "name": "带你去旅行",
+      "urlName": "Dainiqulvxing",
+	  "duration":89.00,
+      "tMiss": 2,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "少年",
+      "urlName": "Shaonian",
+	  "duration":100,
+      "tMiss": 2.3,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "你的答案",
+      "urlName": "Nidedaan",
+	  "duration":123,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "红色高跟鞋",
+      "urlName": "Hongsegaogenxie",
+	  "duration":92,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "123我爱你",
+      "urlName": "123woaini",
+	  "duration":136,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":800,
+      "isNew":false
+    },
+    {
+      "name": "广东爱情故事",
+      "urlName": "Guangdongaiqinggushi",
+	  "duration":128,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "麻雀",
+      "urlName": "Maque",
+	  "duration":106,
+      "tMiss": 3,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "正道的光",
+      "urlName": "Zhengyizhidao",
+	  "duration":86,
+      "tMiss": 3,
+      "difficulty":1,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Polargeis",
+      "urlName": "Polargeis",
+	  "duration":114.00,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "电子",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Fade",
+      "urlName": "Fade",
+	  "duration":125.00,
+      "tMiss": 2.5,
+      "difficulty":1,
+      "type": "电子",
+      "coin":800,
+      "isNew":false
+    },
+    {
+      "name": "土耳其进行曲",
+      "urlName": "AllaTurcaE",
+	  "duration":97.00,
+      "tMiss": 2.3,
+      "difficulty":1,
+      "type": "古典",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "Walk Thru Fire",
+      "urlName": "WalkThruFire",
+	  "duration":129.00,
+      "tMiss": 3,
+      "difficulty":1,
+      "type": "电子",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Unity",
+      "urlName": "Unity",
+	  "duration":110.00,
+      "tMiss": 3,
+      "difficulty":1,
+      "type": "电子",
+      "coin":0,
+      "isNew":false
+    },
+    {
+      "name": "邮递马车",
+	  "duration":76.00,
+      "urlName": "CsikosPost",
+      "tMiss": 2.3,
+      "difficulty":1,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Smile Like You Used To",
+      "urlName": "SmileLikeYouUsedTo",
+	  "duration":90.00,
+      "tMiss": 2.3,
+      "difficulty":1,
+      "type": "流行",
+      "coin":800,
+      "isNew":false
+    },
+    {
+      "name": "致爱丽丝",
+      "urlName": "foreliseE",
+	  "duration":110.00,
+      "tMiss": 2.3,
+      "difficulty":1,
+      "type": "古典",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "China-X",
+      "urlName": "ChinaX",
+	  "duration":132.00,
+      "tMiss": 2.8,
+      "difficulty":2,
+      "type": "电子",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "野狼Disco",
+      "urlName": "Yelangdisco",
+	  "duration":91,
+      "tMiss": 2.4,
+      "difficulty":2,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "你若三冬",
+      "urlName": "Niruosandong",
+	  "duration":115,
+      "tMiss": 2.2,
+      "difficulty":2,
+      "type": "流行",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Accept bloody fate",
+      "urlName": "AcceptBloodyFate",
+	  "duration":133.00,
+      "tMiss": 2.4,
+      "difficulty":2,
+      "type": "摇滚",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "贝多芬病毒",
+      "urlName": "BeethovenVirus",
+	  "duration":111.00,
+      "tMiss": 2.2,
+      "difficulty":2,
+      "type": "古典",
+      "coin":800,
+      "isNew":false
+    },
+    {
+      "name": "Soda City Funk",
+      "urlName": "SodaCityFunk",
+	  "duration":119.00,
+      "tMiss": 2,
+      "difficulty":2,
+      "type": "电子",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "土耳其进行曲",
+      "urlName": "AllaTurca",
+	  "duration":97.00,
+      "tMiss": 2.3,
+      "difficulty":2,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "Hello",
+      "urlName": "HelloE",
+	  "duration":101.00,
+      "tMiss": 2.3,
+      "difficulty":2,
+      "type": "电子",
+      "coin":-1,
+      "isNew":true
+    },
+    {
+      "name": "甩葱歌",
+      "urlName": "IevanPolkka",
+	  "duration":68.00,
+      "tMiss": 2,
+      "difficulty":2,
+      "type": "流行",
+      "coin":800,
+      "isNew":false
+    },
+    {
+      "name": "西班牙斗牛舞舞曲",
+      "urlName": "PasoDoble",
+	  "duration":79.00,
+      "tMiss": 2,
+      "difficulty":2,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    },
+    {
+      "name": "幻想即兴曲",
+      "urlName": "FantasyImprovisation",
+	  "duration":75.00,
+      "tMiss": 1.5,
+      "difficulty":2,
+      "type": "古典",
+      "coin":-1,
+      "isNew":false
+    }
+  ]
+}

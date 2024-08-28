@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c03fb210-5667-4360-a54c-ba4662be1d19",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "做饭游戏冰淇淋制作": {
+      "ver": "1.0.4",
+      "uuid": "20984628-3290-42a7-8961-ad9db155f34f",
+      "rawTextureUuid": "c03fb210-5667-4360-a54c-ba4662be1d19",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "61e20f92-e60b-4581-a87e-6d3e68a43501",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "AstronomiaE": {
+      "ver": "1.0.4",
+      "uuid": "d137b53e-8605-4d74-b0b6-b7735efb54d8",
+      "rawTextureUuid": "61e20f92-e60b-4581-a87e-6d3e68a43501",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "package": "com.melestudio.DancingBlade.vivominigame",
+  "name": "舞动刀锋",
+  "icon": "C:\\Users\\melemoe\\Desktop\\小游戏icon\\DancingBlade.png",
+  "versionName": "1.0.2",
+  "versionCode": "3",
+  "minPlatformVersion": "1050",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "D:\\1\\key\\realse_vivominiGame\\private.pem",
+  "certificatePath": "D:\\1\\key\\realse_vivominiGame\\certificate.pem",
+  "disabledMode": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

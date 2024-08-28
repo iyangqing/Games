@@ -1,0 +1,215 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LightFx",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "Light1": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "Light2": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 30
+            },
+            {
+              "frame": 1.5,
+              "value": 150
+            },
+            {
+              "frame": 3,
+              "value": 30
+            },
+            {
+              "frame": 4.5,
+              "value": 150
+            },
+            {
+              "frame": 6,
+              "value": 30
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6,
+                "y": 1.6
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 4.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6,
+                "y": 1.6
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "LightRing1": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": -360
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 200
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 200
+            },
+            {
+              "frame": 6,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "LightRing2": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 60
+            },
+            {
+              "frame": 6,
+              "value": -300
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 200
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "LightRing3": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 60
+            },
+            {
+              "frame": 6,
+              "value": 300
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 200
+            },
+            {
+              "frame": 5,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
